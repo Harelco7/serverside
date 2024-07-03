@@ -1,0 +1,15 @@
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\bin\Debug\net6.0\CLExtras2.deps.json
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\bin\Debug\net6.0\CLExtras2.runtimeconfig.json
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\bin\Debug\net6.0\CLExtras2.dll
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\bin\Debug\net6.0\CLExtras2.pdb
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\obj\Debug\net6.0\CLExtras2.csproj.AssemblyReference.cache
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\obj\Debug\net6.0\CLExtras2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\obj\Debug\net6.0\CLExtras2.AssemblyInfoInputs.cache
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\obj\Debug\net6.0\CLExtras2.AssemblyInfo.cs
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\obj\Debug\net6.0\CLExtras2.csproj.CoreCompileInputs.cache
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\obj\Debug\net6.0\CLExtras2.dll
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\obj\Debug\net6.0\refint\CLExtras2.dll
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\obj\Debug\net6.0\CLExtras2.pdb
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\obj\Debug\net6.0\CLExtras2.genruntimeconfig.cache
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\obj\Debug\net6.0\ref\CLExtras2.dll
+C:\Users\Harel\Desktop\NewExtras\CLExtras2\CLExtras2\obj\Debug\net6.0\CLExtras2.sourcelink.json
